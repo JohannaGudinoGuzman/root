@@ -1,0 +1,19 @@
+@charset "utf-8";
+h1 {text-align: center; 
+	color: darkblue;
+text-decoration: underline;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+ }
+img {
+	border-radius: 10px;
+	border-style: dotted;
+	color: darkblue;
+	width: 700px;
+	height: 500px;
+	border-width: 4px;
+}
+body {
+	background-color: ivory;
+	text-align: center;
+	background-color: lavender;
+}
